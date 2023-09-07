@@ -4,7 +4,7 @@
 
 ### Screenshot
 
-![](./screenshot.png.png)
+![](./screenshot.png)
 
 ### Built with
 
